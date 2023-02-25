@@ -1,9 +1,3 @@
-<a href="(https://github.com/Zkri-Saber)"](https://github.com/Zkri-Saber)><img src="https://img.shields.io/github/stars/drshahizan/phd" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/phd/network/members"><img src="https://img.shields.io/github/forks/drshahizan/phd" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/phd"><img src="https://img.shields.io/github/issues-pr/drshahizan/phd" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/phd/issues"><img src="https://img.shields.io/github/issues/drshahizan/phd" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/phd/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/phd?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/phd)
 
 ### Hi there 👋
 - 🔭 I’m currently working on PhD program
