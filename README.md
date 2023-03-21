@@ -1,8 +1,5 @@
 
-### Hi there 👋
-- 🔭 I’m currently working on PhD program
-- 🌱 I’m currently learning Data Analysis
-- 📫 [Systematic Literature Reviews](https://github.com/Zkri-Saber/SLR)  Here is a brief description of a repository related to Systematic Literature Reviews.
+
 <!--
 **Zkri-Saber/Zkri-Saber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
