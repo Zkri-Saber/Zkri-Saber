@@ -26,6 +26,10 @@ I'm a PhD student at [UTM](https://www.utm.my/) specializing in data analysis. M
 - 🎓 MSc in [Computer Enginering], [Cyprus International Univirsity](http://www.ciu.edu.tr/en), [2012 - 2014]
 - 📜 BSc in [Computer Education], [Soran](https://www.soran.edu.iq/), [2006 - 2010]
 
+## 💼 Employment
+
+- 🏢 HCI (Hawler Computer Institute), KRG (Kurdistan Regional Government), [lecturer], [2010 - Present]
+
 ## 💻 Skills
 
 - **Programming Languages:** Python, Java, Shell
