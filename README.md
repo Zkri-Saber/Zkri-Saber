@@ -2,6 +2,8 @@
 
 A dedicated **PhD Researcher in Computer Science** at **Universiti Teknologi Malaysia (UTM)** specializing in Machine Learning, Data Analytics, and Healthcare Informatics.
 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+
 ---
 
 ### 🔬 Research Focus
@@ -50,7 +52,7 @@ My research primarily focuses on **machine learning applications in healthcare**
 
 ### 🌐 Connect & Links
 
+- 🎓 **Google Scholar:** [Dhekre Saber Saleh](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
 - 🌐 **Website:** [zkri-saber.github.io](https://zkri-saber.github.io/)
 - 📧 **Email:** [zkre2011@gmail.com](mailto:zkre2011@gmail.com)
-- 🎓 **ResearchGate:** [Dhekre Saber Saleh](https://www.researchgate.net/profile/Dhekre-Saleh)
-- 💼 **LinkedIn:** [Add your LinkedIn URL here]
+- 🔬 **ResearchGate:** [Dhekre Saber Saleh](https://www.researchgate.net/profile/Dhekre-Saleh)
