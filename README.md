@@ -1,46 +1,56 @@
+# 👋 Hi, I'm Dhekre Saber Saleh <span opacity="0.8">(Zkri)</span>
 
+A dedicated **PhD Researcher in Computer Science** at **Universiti Teknologi Malaysia (UTM)** specializing in Machine Learning, Data Analytics, and Healthcare Informatics.
 
-# 👋 Hi, I'm Dhekre Saber Saleh -->😊 Nickname:(Zkri)
+---
 
-I'm a PhD student at [UTM](https://www.utm.my/) specializing in data analysis. My research interests include Data Analysis for healthcar. I have experience working with various tools and technologies such as Python, Java, Shell, CSS, HTML, SQL, and more.
+### 🔬 Research Focus
+My research primarily focuses on **machine learning applications in healthcare**, with a strong emphasis on addressing **imbalanced data** and **missing values** in clinical datasets (specifically thyroid disease diagnosis).
 
-## 🎓 Education
+---
 
-- 📚 PhD in [Computer Science], [University Tecnology Malaysia](https://www.utm.my/), [2021 - Present]
-- 🎓 MSc in [Computer Enginering], [Cyprus International Univirsity](http://www.ciu.edu.tr/en), [2012 - 2014]
-- 📜 BSc in [Computer Education], [Soran](https://www.soran.edu.iq/), [2006 - 2010]
+### 🛠️ Tech Stack & Skills
 
-## 💼 Employment
+- **Languages:** `Python` `Java` `SQL` `Shell` `HTML5` `CSS3` `JavaScript`
+- **Data Science & ML:** `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn`
+- **Tools & Platforms:** `Git` `GitHub Pages` `Jupyter Notebook` `LaTeX`
 
-- 🏢 HCI (Hawler Computer Institute), KRG (Kurdistan Regional Government), [lecturer], [2010 - Present]
+---
 
-## 💻 Skills
+### 🎓 Education
 
-- **Programming Languages:** Python, Java, Shell
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Databases:** SQL, [Other DBMS]
-- **Data Analysis:** [Data Analysis Libraries/Tools, e.g., Pandas, NumPy, etc.]
-- **Data Visualization:** [Data Visualization Libraries/Tools, e.g., Matplotlib, Seaborn, ggplot2, etc.]
-- **Machine Learning:** [Machine Learning Libraries/Tools, e.g., Scikit-learn, TensorFlow, PyTorch, etc.]
-- **Other Tools:** [Other relevant tools, e.g., Git, Docker, etc.]
+- **PhD in Computer Science**  
+  *Universiti Teknologi Malaysia (UTM)* | `2021 – Present`
+- **MSc in Computer Engineering**  
+  *Cyprus International University* | `2012 – 2014`
+- **BSc in Computer Education**  
+  *Soran University* | `2006 – 2010`
 
-## 📚 Research
+---
 
-- [Research Paper 1 Title](link-to-paper)
-- [Research Paper 2 Title](link-to-paper)
-- [Conference Presentation Title](link-to-presentation)
+### 💼 Employment & Experience
 
-## 📂 Projects
+- **Lecturer** | Hawler Computer Institute (HCI), KRG, Iraq  
+  `2010 – Present`  
+  *Teaching modules in computer science, programming, and IT applications.*
 
-1. **[Project 1 Name](link-to-repo):** Brief description of the project.
-2. **[Project 2 Name](link-to-repo):** Brief description of the project.
-3. **[Project 3 Name](link-to-repo):** Brief description of the project.
+---
 
-## 🌐 Connect with me
+### 📚 Selected Publications
 
-- [LinkedIn]
-- [Twitter]
-- [Personal Website]
-- 📧 Email: zkre2011@gmail.com
+- 📄 **[Effective Techniques for Handling Missing Values in Thyroid Disease Diagnosis: A Comparative Analysis](https://doi.org/10.1155/acis/2766701)**  
+  **Dhekre Saber Saleh**, Mohd Shahizan Othman, Wshyar Omar (2025)  
+  *Applied Computational Intelligence and Soft Computing* | [DOI](https://doi.org/10.1155/acis/2766701) · [PDF](https://www.researchgate.net/publication/390191458_Effective_Techniques_for_Handling_Missing_Values_in_Thyroid_Disease_Diagnosis_A_Comparative_Analysis)
 
+- 📄 **[Exploring the Challenges of Diagnosing Thyroid Disease with Imbalanced Data and Machine Learning: A Systematic Literature Review](https://doi.org/10.21123/bsj.2023.8544)**  
+  **Dhekre Saber Saleh**, Mohd Shahizan Othman (2024)  
+  *Baghdad Science Journal*, Vol. 21, p. 1119 | [DOI](https://doi.org/10.21123/bsj.2023.8544) · [PDF](https://bsj.uobaghdad.edu.iq/cgi/viewcontent.cgi?article=1817&context=home)
 
+---
+
+### 🌐 Connect & Links
+
+- 🌐 **Website:** [zkri-saber.github.io](https://zkri-saber.github.io/)
+- 📧 **Email:** [zkre2011@gmail.com](mailto:zkre2011@gmail.com)
+- 🎓 **ResearchGate:** [Dhekre Saber Saleh](https://www.researchgate.net/profile/Dhekre-Saleh)
+- 💼 **LinkedIn:** [Add your LinkedIn URL here]
